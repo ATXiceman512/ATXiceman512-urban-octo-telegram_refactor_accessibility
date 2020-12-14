@@ -1,12 +1,14 @@
 # Code Refactor Starter Code
 
-# USER STORY
+# Description
+Refactored the style.css file to consolidate repetitive code and updated index.html to make it more accessable for screen readers.
+
+# USER STORY:
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-
-# Acceptance Criteria
+# Acceptance Criteria:
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -18,3 +20,12 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+# Link to website:
+Link: https://atxiceman512.github.io/ATXiceman512-urban-octo-telegram_refactor_accessibility/
+
+# Screenshots
+![Index.html(FrontEnd) screenshot](./assets/images/Screenshot.PNG "Screenshot with Chrome Developer tools open")
+
+![Index.html/css(BackEnd) screenshot](./assets/images/HTML_CSS_VS_Code.PNG "Screenshot of CSS and HTMl in VS code")
+
